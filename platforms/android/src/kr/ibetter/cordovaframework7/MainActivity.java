@@ -17,7 +17,7 @@
        under the License.
  */
 
-package kr.ibetter.eaars;
+package kr.ibetter.cordovaframework7;
 
 import android.os.Bundle;
 import org.apache.cordova.*;

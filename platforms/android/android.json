@@ -19,7 +19,7 @@
     },
     "installed_plugins": {
         "cordova-plugin-whitelist": {
-            "PACKAGE_NAME": "kr.ibetter.eaars"
+            "PACKAGE_NAME": "kr.ibetter.cordovaframework7"
         }
     },
     "dependent_plugins": {},
